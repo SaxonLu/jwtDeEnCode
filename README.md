@@ -21,6 +21,7 @@ Body內填入
 Request Url => localhost:8090/resource
 >Header 
 >>Key : Authorization
+
 >>Value : Jwt雜湊後的Token
 
 送出後會取得Decode後的Json資料
