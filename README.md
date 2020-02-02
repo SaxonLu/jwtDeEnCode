@@ -5,7 +5,7 @@ Easy Sample For Goalng Encode Decode Jwt Token
 
 ### Encode Request
 
-Request Url => localhost:8090/login
+Request Url => localhost:8090/encode
 
 Body內填入 
 ```json
@@ -18,7 +18,7 @@ Body內填入
 
 ### Decode Request
 
-Request Url => localhost:8090/resource
+Request Url => localhost:8090/decode
 >Header 
 >>Key : Authorization
 
